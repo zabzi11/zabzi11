@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zabzi11
 - 👀 Web Industrial Design Training june-september 2013
-- 🌱Software engineering training 2014-2016
+- 🌱Software engineering training 2013-2015
 - 💞️ Tech Tuturing:
 - 📫 Web Application development
 - 😄 online tuturing
